@@ -18,7 +18,7 @@ DDNS sites don't use TLDs like Web 2.0 domains do (eg. instead of https://apple.
 
 Names aren't registered to a single database (like ICANN) and anyone can create one. Funds generated from the registration fees will directly support metaverse, and make it harder for massdomain registrations.
 
-When you visit 'https://example' using DDNS, the DNS resolver will resolve 'example.ddns' on the blockchain using a Stacks node connected to the DNS server you connected to.
+When you visit 'https://example' using DDNS, the DNS resolver will resolve 'example.ddns' on the blockchain using a Stacks node connected to the DDNS server you connected to.
 When you visit 'https://example.com' using DDNS, the resolver will resolve 'example.com' on Web 2.0 as usual.
 
 ## Subdomains
