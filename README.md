@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In Q4 2021, metaverse will attempt to register the namespace `.ddns` on BNS. This will be the beginning of building a decentralised and censorship-resistant Web 3.0 on Bitcoin. 
+In Q4 2021, L³ will attempt to register the namespace `.ddns` on BNS. This will be the beginning of building a decentralised and censorship-resistant Web 3.0 on Bitcoin. 
 
 Domains registered on DDNS are globally unique, strongly owned, human-readable and hijack-resistant.
 
