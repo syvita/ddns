@@ -6,7 +6,7 @@
 
 ## Why HYPRDRIIV?
 
-The Internet doesn't just DNS replaced, it also needs TLS replaced. As the two are so tightly integrated with one another, the best way for us to go is to build an entirely new protocol combining both decentralised DNS and decentralised TLS. 
+The Internet doesn't just DNS replaced, it also needs TLS to be replaced. Which also means HTTPS needs replacing too as the two are so tightly integrated with one another. Because of this, the best way for us to execute this is to build an entirely new protocol combining decentralised DNS and decentralised TLS with a new protocol (hypr://). 
 
 More on HYPRDRIIV to come. All works that were on DDNS will now take place on [HYPRDRIIV](https://github.com/hyprdriiv).
 
