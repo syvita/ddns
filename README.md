@@ -8,10 +8,11 @@
 
 The Internet doesn't just DNS replaced, it also needs TLS replaced. As the two are so tightly integrated with one another, the best way for us to go is to build an entirely new protocol combining both decentralised DNS and decentralised TLS. 
 
-More on HYPRDRIIV to come. 
+More on HYPRDRIIV to come. All works that were on DDNS will now take place on [HYPRDRIIV](https://github.com/hyprdriiv).
+
+---
 
 # Archived content
----
 
 ## Introduction
 
