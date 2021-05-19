@@ -2,6 +2,15 @@
 
 *Decentralised Domain Name System*
 
+**UPDATE:** What was DDNS has now evolved into the HYPRDRIIV protocol. 
+
+## Why HYPRDRIIV?
+
+The Internet doesn't just DNS replaced, it also needs TLS replaced. As the two are so tightly integrated with one another, the best way for us to go is to build an entirely new protocol combining both decentralised DNS and decentralised TLS. 
+
+More on HYPRDRIIV to come. 
+
+# Archived content
 ---
 
 ## Introduction
