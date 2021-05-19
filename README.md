@@ -2,7 +2,7 @@
 
 *Decentralised Domain Name System*
 
-**UPDATE:** What was DDNS has now evolved into the HYPRDRIIV protocol. 
+**UPDATE:** What was DDNS has now evolved into the [HYPRDRIIV](https://github.com/hyprdriiv) protocol. 
 
 ## Why HYPRDRIIV?
 
